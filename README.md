@@ -9,4 +9,4 @@ Conditional Rendering
 
 Default Props
 
-###check it out at : [here](https://sukCondRend.ccbp.tech)
+### check it out at : [here](https://sukCondRend.ccbp.tech)
